@@ -3,7 +3,7 @@ type TextComponentProps = {
 };
 
 const TextComponent = ({ text }: TextComponentProps) => {
-  return <></>;
+  return <span>{text}</span>;
 };
 
 export default TextComponent;
