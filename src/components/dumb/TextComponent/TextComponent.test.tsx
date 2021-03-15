@@ -1,4 +1,4 @@
-import { cleanup, render, screen } from '@testing-library/react';
+import { cleanup, render } from '@testing-library/react';
 import TextComponent from './TextComponent';
 
 describe('Test Suite for TextComponent', () => {
